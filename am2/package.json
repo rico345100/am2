@@ -1,0 +1,17 @@
+{
+  "name": "am2",
+  "version": "1.0.0",
+  "description": "am2 is simplified mongodb library",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "modernator",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "^2.1.18"
+  }
+}
